@@ -153,7 +153,6 @@ const Navbar = () => {
         </div>
       </header>
 
-      {/* MODAL */}
       <RoleModal
         isOpen={isModalOpen}
         onSelectRole={handleSelectRole}
