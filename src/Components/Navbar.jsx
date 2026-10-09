@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useTheme } from "../Context/ThemeContext";
-import RoleModal from "./RoleModal";
+import RoleModal from "./Rolemodal";
 import logoblack from "../assets/logoblack.svg";
 import logolight from "../assets/logolight.svg";
 import { Search, Sun, Moon, Globe, User, Briefcase } from "lucide-react";
